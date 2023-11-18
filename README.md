@@ -4,26 +4,6 @@ werkaut is a free, open-source flutter application that manages and tracks/logs
 your exercises and personal workouts, weight, and diet plans. This is the mobile
 app written with Flutter, it talks via REST with the main server.
 
-If you want to contribute, hop on the Discord server and say hi!
-
-
-<p>
-<img src="https://raw.githubusercontent.com/werkaut-project/flutter/master/fastlane/metadata/android/en-US/images/phoneScreenshots/01%20-%20dashboard.png" width="200" />
-
-<img src="https://raw.githubusercontent.com/werkaut-project/flutter/master/fastlane/metadata/android/en-US/images/phoneScreenshots/04%20-%20measurements.png" width="200" />
-
-<img src="https://raw.githubusercontent.com/werkaut-project/flutter/master/fastlane/metadata/android/en-US/images/phoneScreenshots/05%20-%20nutritional%20plan.png" width="200" />
-</p>
-
-## Installation
-
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-alt="Get it on Google Play"
-height="80">](https://play.google.com/store/apps/details?id=de.werkaut.flutter)
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-alt="Get it on F-Droid"
-height="80">](https://f-droid.org/packages/de.werkaut.flutter/)
-
 ## Development
 
 ### 1
@@ -71,22 +51,6 @@ Start the application with ``flutter run`` or use your IDE
 the server)
 
 You can run the tests with the ``flutter test``
-
-## Translation
-
-Translate the app to your language on  [Weblate](https://hosted.weblate.org/engage/werkaut/).
-
-[![translation status](https://hosted.weblate.org/widgets/werkaut/-/mobile/multi-blue.svg)](https://hosted.weblate.org/engage/werkaut/)
-
-## Contact
-
-Feel free to get in touch if you found this useful or if something didn't behave
-as expected. We can't fix what we don't know about, so please report liberally.
-If you're not sure if something is a bug or not, feel free to file a bug anyway.
-
-* **Discord:** <https://discord.gg/rPWFv6W>
-* **Issue tracker:** <https://github.com/werkaut-project/flutter/issues>
-* **Twitter:** <https://twitter.com/werkaut_project>
 
 ## License
 
